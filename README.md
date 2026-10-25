@@ -1,5 +1,5 @@
 # Computer Vision and Image Processing
-
+**Note:** Face detection is demonstrated in a separate notebook, face-detection-megan-fox.ipynb, because the required Haar cascade classifier was not available when the original notebook was created. The separate notebook contains a working face detection example using haarcascade_frontalface_default.xml.
 A collection of Python experiments exploring image processing and computer vision techniques using OpenCV.
 
 # Overview
